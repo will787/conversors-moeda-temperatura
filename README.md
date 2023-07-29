@@ -12,3 +12,9 @@ Status: Conversor de Temperatura ⚠️ (desenvolvimento).<br>
 + Ao escolher a opção de conversor de moedas, poderá deseja o valor de interesse em seu porte, o que você têm.
 + Colocando o valor, você pode escolher a moeda para qual você deseja converter.
 + Após escolher a seleção, irá resultar a moeda escolhida com seu respectivo de valor.
+
+  <h3>Tecnologia utilizada, detalhes</h3>
+
+  + Linguagem de programação Java, com utilização da bibioleteca java.swing;
+  + Utilização do trello para organização do projeto;
+    
