@@ -18,3 +18,7 @@ Status: Conversor de Temperatura ⚠️ (desenvolvimento).<br>
   + Linguagem de programação Java, com utilização da bibioleteca java.swing;
   + Utilização do trello para organização do projeto;
     
+<h4>Projeto ainda em construção, mas a primeira versão com ele já entregue ✅ </h4>
+
+- Pretendendo fazer uma refatoração dele, começar o aprendizado agora com framework Spring boot, para fazer a atualização de dados (as moedas  💰)
+- Implementar também outros tipos de conversores, como o de temperatura que está em desenvolvimento  🔲.
