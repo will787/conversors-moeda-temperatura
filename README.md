@@ -24,7 +24,7 @@ Status: Conversor de Temperatura ⚠️ (desenvolvimento).<br>
 - Implementar também outros tipos de conversores, como o de temperatura que está em desenvolvimento  🔲.
 
   <div align="center">
-    ![badge conversor](https://github.com/will787/conversors-moeda-temperatura/assets/130716554/446064e1-e40a-4557-8edf-5b54bb4f9cb4)
+   <img src="https://github.com/will787/conversors-moeda-temperatura/assets/130716554/446064e1-e40a-4557-8edf-5b54bb4f9cb4" />
   </div>
 
 
