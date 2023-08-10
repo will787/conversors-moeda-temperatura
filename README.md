@@ -22,3 +22,5 @@ Status: Conversor de Temperatura ⚠️ (desenvolvimento).<br>
 
 - Pretendendo fazer uma refatoração dele, começar o aprendizado agora com framework Spring boot, para fazer a atualização de dados (as moedas  💰)
 - Implementar também outros tipos de conversores, como o de temperatura que está em desenvolvimento  🔲.
+
+
